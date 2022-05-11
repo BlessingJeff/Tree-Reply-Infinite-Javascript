@@ -1,0 +1,79 @@
+.container{
+    width: 80%;
+    max-width: 400px;
+    /* background-color: #eff3f7; */
+   
+    
+}
+.post{
+    padding:10px;
+    padding-inline-start: 15px ;
+    background-color: #61bd6f;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 1%;
+    border-radius: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    font-style: italic;
+}
+.rPost{
+    padding:8px;
+    padding-inline-start: 20px ;
+    background-color: #6fbced;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 1%;
+    border-radius: 30px;
+    /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+
+}
+
+.input{
+    width: 100%;
+    padding: 3px;
+    border: none;
+    border-bottom: 1px solid black;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: large;
+   font-style: italic;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: large;
+   font-style: italic;
+
+}
+
+.input:focus{
+    outline: none;
+}
+.reply{
+    padding-inline-start: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: large;
+   font-style: italic;
+   
+
+}
+
+.btn{
+    padding: 8px;
+    padding-inline-start: 15px;
+    padding-inline-end: 15px;
+    border: none;
+    border-radius: 15px;
+    background-color: lightblue;
+    cursor: pointer;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.replyn{
+    padding: 8px;
+    padding-inline-start: 15px;
+    padding-inline-end: 15px;
+    border: none;
+    border-radius: 15px;
+    background-color: lightblue;
+    cursor: pointer;
+}
